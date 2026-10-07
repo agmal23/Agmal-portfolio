@@ -1,6 +1,6 @@
 ========== HEADER & NAV ==========
 ✅.nav__logo
-Bianca
+Agmal
 
 ✅.nav__link
 Home - Works - My Services - Skills - Contact me
@@ -8,7 +8,7 @@ Home - Works - My Services - Skills - Contact me
 
 ========== HOME SECTION ==========
 ✅.home__subtitle
-Hi! I'm Bianca - Based on Peru
+Hi! I'm Agmal - Based on Peru
 
 ✅.home__title
 Creative Designer & <br>
@@ -196,8 +196,8 @@ Message
 Send Message
 
 ✅.contact__title ✅.contact__address
-Email (mailto:bianca123@email.com)
-  bianca123@email.com
+Email (mailto:agmal123@email.com)
+  agmal123@email.com
 
 Phone number (tel:+99 1234567890)
   +99 1234567890
@@ -245,7 +245,7 @@ EmailJS team
 
 ========== FOOTER ==========
 ✅.footer__title
-COLLABORATE WITH BIANCA AND START YOUR 
+COLLABORATE WITH AGMAL AND START YOUR 
 JOURNEY IN CREATIVE DESIGN TODAY.
 
 ✅.footer__links
